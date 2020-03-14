@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/geraldy1st/weather-app/static/css/main.0ccae9b7.chunk.css",
+    "main.js": "/geraldy1st/weather-app/static/js/main.d4443dd1.chunk.js",
+    "main.js.map": "/geraldy1st/weather-app/static/js/main.d4443dd1.chunk.js.map",
+    "runtime-main.js": "/geraldy1st/weather-app/static/js/runtime-main.7a22dfe7.js",
+    "runtime-main.js.map": "/geraldy1st/weather-app/static/js/runtime-main.7a22dfe7.js.map",
+    "static/js/2.5ef651a7.chunk.js": "/geraldy1st/weather-app/static/js/2.5ef651a7.chunk.js",
+    "static/js/2.5ef651a7.chunk.js.map": "/geraldy1st/weather-app/static/js/2.5ef651a7.chunk.js.map",
+    "index.html": "/geraldy1st/weather-app/index.html",
+    "precache-manifest.e90f9b9172d7ddcb82afdb467d6c1281.js": "/geraldy1st/weather-app/precache-manifest.e90f9b9172d7ddcb82afdb467d6c1281.js",
+    "service-worker.js": "/geraldy1st/weather-app/service-worker.js",
+    "static/css/main.0ccae9b7.chunk.css.map": "/geraldy1st/weather-app/static/css/main.0ccae9b7.chunk.css.map",
+    "static/js/2.5ef651a7.chunk.js.LICENSE.txt": "/geraldy1st/weather-app/static/js/2.5ef651a7.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/geraldy1st/weather-app/static/media/warm-bg.635ed87d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a22dfe7.js",
+    "static/js/2.5ef651a7.chunk.js",
+    "static/css/main.0ccae9b7.chunk.css",
+    "static/js/main.d4443dd1.chunk.js"
+  ]
+}
